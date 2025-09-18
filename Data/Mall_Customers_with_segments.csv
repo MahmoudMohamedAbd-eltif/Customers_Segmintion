@@ -1,0 +1,201 @@
+CustomerID,Genre,Age,Annual Income (k$),Spending Score (1-100),Customer Segment
+1,Male,19,15,39,Bargain Lovers
+2,Male,21,15,81,Bargain Lovers
+3,Female,20,16,6,Low Value
+4,Female,23,16,77,Bargain Lovers
+5,Female,31,17,40,Low Value
+6,Female,22,17,76,Bargain Lovers
+7,Female,35,18,6,Low Value
+8,Female,23,18,94,Bargain Lovers
+9,Male,64,19,3,Low Value
+10,Female,30,19,72,Bargain Lovers
+11,Male,67,19,14,Low Value
+12,Female,35,19,99,Bargain Lovers
+13,Female,58,20,15,Low Value
+14,Female,24,20,77,Bargain Lovers
+15,Male,37,20,13,Low Value
+16,Male,22,20,79,Bargain Lovers
+17,Female,35,21,35,Low Value
+18,Male,20,21,66,Bargain Lovers
+19,Male,52,23,29,Low Value
+20,Female,35,23,98,Bargain Lovers
+21,Male,35,24,35,Low Value
+22,Male,25,24,73,Bargain Lovers
+23,Female,46,25,5,Low Value
+24,Male,31,25,73,Bargain Lovers
+25,Female,54,28,14,Low Value
+26,Male,29,28,82,Bargain Lovers
+27,Female,45,28,32,Low Value
+28,Male,35,28,61,Bargain Lovers
+29,Female,40,29,31,Low Value
+30,Female,23,29,87,Bargain Lovers
+31,Male,60,30,4,Low Value
+32,Female,21,30,73,Bargain Lovers
+33,Male,53,33,4,Low Value
+34,Male,18,33,92,Bargain Lovers
+35,Female,49,33,14,Low Value
+36,Female,21,33,81,Bargain Lovers
+37,Female,42,34,17,Low Value
+38,Female,30,34,73,Bargain Lovers
+39,Female,36,37,26,Low Value
+40,Female,20,37,75,Bargain Lovers
+41,Female,65,38,35,Mature Standard
+42,Male,24,38,92,Bargain Lovers
+43,Male,48,39,36,Low Value
+44,Female,31,39,61,Young Standard
+45,Female,49,39,28,Low Value
+46,Female,24,39,65,Bargain Lovers
+47,Female,50,40,55,Mature Standard
+48,Female,27,40,47,Young Standard
+49,Female,29,40,42,Young Standard
+50,Female,31,40,42,Young Standard
+51,Female,49,42,52,Mature Standard
+52,Male,33,42,60,Young Standard
+53,Female,31,43,54,Young Standard
+54,Male,59,43,60,Mature Standard
+55,Female,50,43,45,Mature Standard
+56,Male,47,43,41,Mature Standard
+57,Female,51,44,50,Mature Standard
+58,Male,69,44,46,Mature Standard
+59,Female,27,46,51,Young Standard
+60,Male,53,46,46,Mature Standard
+61,Male,70,46,56,Mature Standard
+62,Male,19,46,55,Young Standard
+63,Female,67,47,52,Mature Standard
+64,Female,54,47,59,Mature Standard
+65,Male,63,48,51,Mature Standard
+66,Male,18,48,59,Young Standard
+67,Female,43,48,50,Mature Standard
+68,Female,68,48,48,Mature Standard
+69,Male,19,48,59,Young Standard
+70,Female,32,48,47,Young Standard
+71,Male,70,49,55,Mature Standard
+72,Female,47,49,42,Mature Standard
+73,Female,60,50,49,Mature Standard
+74,Female,60,50,56,Mature Standard
+75,Male,59,54,47,Mature Standard
+76,Male,26,54,54,Young Standard
+77,Female,45,54,53,Mature Standard
+78,Male,40,54,48,Young Standard
+79,Female,23,54,52,Young Standard
+80,Female,49,54,42,Mature Standard
+81,Male,57,54,51,Mature Standard
+82,Male,38,54,55,Young Standard
+83,Male,67,54,41,Mature Standard
+84,Female,46,54,44,Mature Standard
+85,Female,21,54,57,Young Standard
+86,Male,48,54,46,Mature Standard
+87,Female,55,57,58,Mature Standard
+88,Female,22,57,55,Young Standard
+89,Female,34,58,60,Young Standard
+90,Female,50,58,46,Mature Standard
+91,Female,68,59,55,Mature Standard
+92,Male,18,59,41,Young Standard
+93,Male,48,60,49,Mature Standard
+94,Female,40,60,40,Young Standard
+95,Female,32,60,42,Young Standard
+96,Male,24,60,52,Young Standard
+97,Female,47,60,47,Mature Standard
+98,Female,27,60,50,Young Standard
+99,Male,48,61,42,Mature Standard
+100,Male,20,61,49,Young Standard
+101,Female,23,62,41,Young Standard
+102,Female,49,62,48,Mature Standard
+103,Male,67,62,59,Mature Standard
+104,Male,26,62,55,Young Standard
+105,Male,49,62,56,Mature Standard
+106,Female,21,62,42,Young Standard
+107,Female,66,63,50,Mature Standard
+108,Male,54,63,46,Mature Standard
+109,Male,68,63,43,Mature Standard
+110,Male,66,63,48,Mature Standard
+111,Male,65,63,52,Mature Standard
+112,Female,19,63,54,Young Standard
+113,Female,38,64,42,Young Standard
+114,Male,19,64,46,Young Standard
+115,Female,18,65,48,Young Standard
+116,Female,19,65,50,Young Standard
+117,Female,63,65,43,Mature Standard
+118,Female,49,65,59,Mature Standard
+119,Female,51,67,43,Mature Standard
+120,Female,50,67,57,Mature Standard
+121,Male,27,67,56,Young Standard
+122,Female,38,67,40,Young Standard
+123,Female,40,69,58,Young Standard
+124,Male,39,69,91,VIPs
+125,Female,23,70,29,Young Standard
+126,Female,31,70,77,VIPs
+127,Male,43,71,35,Careful Rich
+128,Male,40,71,95,VIPs
+129,Male,59,71,11,Careful Rich
+130,Male,38,71,75,VIPs
+131,Male,47,71,9,Careful Rich
+132,Male,39,71,75,VIPs
+133,Female,25,72,34,Young Standard
+134,Female,31,72,71,VIPs
+135,Male,20,73,5,Careful Rich
+136,Female,29,73,88,VIPs
+137,Female,44,73,7,Careful Rich
+138,Male,32,73,73,VIPs
+139,Male,19,74,10,Young Standard
+140,Female,35,74,72,VIPs
+141,Female,57,75,5,Careful Rich
+142,Male,32,75,93,VIPs
+143,Female,28,76,40,Young Standard
+144,Female,32,76,87,VIPs
+145,Male,25,77,12,Careful Rich
+146,Male,28,77,97,VIPs
+147,Male,48,77,36,Careful Rich
+148,Female,32,77,74,VIPs
+149,Female,34,78,22,Careful Rich
+150,Male,34,78,90,VIPs
+151,Male,43,78,17,Careful Rich
+152,Male,39,78,88,VIPs
+153,Female,44,78,20,Careful Rich
+154,Female,38,78,76,VIPs
+155,Female,47,78,16,Careful Rich
+156,Female,27,78,89,VIPs
+157,Male,37,78,1,Careful Rich
+158,Female,30,78,78,VIPs
+159,Male,34,78,1,Careful Rich
+160,Female,30,78,73,VIPs
+161,Female,56,79,35,Mature Standard
+162,Female,29,79,83,VIPs
+163,Male,19,81,5,Careful Rich
+164,Female,31,81,93,VIPs
+165,Male,50,85,26,Careful Rich
+166,Female,36,85,75,VIPs
+167,Male,42,86,20,Careful Rich
+168,Female,33,86,95,VIPs
+169,Female,36,87,27,Careful Rich
+170,Male,32,87,63,VIPs
+171,Male,40,87,13,Careful Rich
+172,Male,28,87,75,VIPs
+173,Male,36,87,10,Careful Rich
+174,Male,36,87,92,VIPs
+175,Female,52,88,13,Careful Rich
+176,Female,30,88,86,VIPs
+177,Male,58,88,15,Careful Rich
+178,Male,27,88,69,VIPs
+179,Male,59,93,14,Careful Rich
+180,Male,35,93,90,VIPs
+181,Female,37,97,32,Careful Rich
+182,Female,32,97,86,VIPs
+183,Male,46,98,15,Careful Rich
+184,Female,29,98,88,VIPs
+185,Female,41,99,39,Careful Rich
+186,Male,30,99,97,VIPs
+187,Female,54,101,24,Careful Rich
+188,Male,28,101,68,VIPs
+189,Female,41,103,17,Careful Rich
+190,Female,36,103,85,VIPs
+191,Female,34,103,23,Careful Rich
+192,Female,32,103,69,VIPs
+193,Male,33,113,8,Careful Rich
+194,Female,38,113,91,VIPs
+195,Female,47,120,16,Careful Rich
+196,Female,35,120,79,VIPs
+197,Female,45,126,28,Careful Rich
+198,Male,32,126,74,VIPs
+199,Male,32,137,18,Careful Rich
+200,Male,30,137,83,VIPs
