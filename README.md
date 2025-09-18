@@ -1,2 +1,1 @@
-# Customers_Segmintion
- Customer segmentation using K-Means on Mall Customers dataset — EDA, model selection, and interactive dashboard
+This project performs customer segmentation using K-Means clustering on the Mall Customers dataset. It includes full EDA, preprocessing, model selection (Elbow & Silhouette), cluster interpretation, and a modern dashboard for visualization (static and interactive views). Use it to explore customer groups and derive actionable marketing insights.
